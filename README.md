@@ -1,7 +1,7 @@
 
 **This project was initiated at the {Tech:Euro} Google deepmind Agentic AI Hackathon in Stockholm, where it won 🎉second prize🎉, and is now undergoing continuous development and iteration.**
 
-# Lost in Paris
+# Frenceh learning example: Lost in Paris
 
 **Learn French by living through it.**
 
