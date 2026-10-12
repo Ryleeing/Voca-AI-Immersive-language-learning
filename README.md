@@ -1,5 +1,5 @@
 
-**This project was initiated at the GDM Hackathon in Stockholm, where it won second prize, and is now undergoing continuous development and iteration.**
+**This project was initiated at the {Tech:Euro} Google deepmind Agentic AI Hackathon in Stockholm, where it won 🎉second prize🎉, and is now undergoing continuous development and iteration.**
 
 # Lost in Paris
 
