@@ -1,3 +1,6 @@
+
+#This project was initiated at the GDM Hackathon in Stockholm, where it won second prize, and is now undergoing continuous development and iteration.
+
 # Lost in Paris
 
 **Learn French by living through it.**
